@@ -5,11 +5,10 @@
 ## 🚀 About Me
 
 - 🎓 I'm pursuing a **B.Tech in Computer Science and Engineering** at **VIT-AP University**.
-- 💻 I'm currently a **Full Stack Web Development Intern** at **Vyuha Innovation Foundation**.
 - 🌐 I'm passionate about building fast, responsive, and user-friendly web applications using **Next.js**, **React.js**, and **Tailwind CSS**.
-- 🔧 I have experience deploying full-stack apps on **Linux servers** using **Nginx**, **PM2**, and **Certbot**.
-- 🌱 Currently diving deeper into **API integration**, **server configuration**, and **secure deployments**.
-- 💬 Ask me about **web development**, **backend integration**, and **problem-solving**.
+- 💻 I have experience with **full-stack web development**, including **API integration**, **MongoDB**, **Linux server deployments**, and **domain mapping**.
+- 🔧 Skilled at deploying apps using **Nginx**, **PM2**, and **Certbot** for secure production environments.
+- 💬 Ask me about **web development**, **backend integration**, **deployment**, and **problem-solving**.
 - 🎯 Always curious, always learning!
 
 ---
@@ -34,6 +33,7 @@
 
 ### 🧪 Databases:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### 📊 Data Analysis:
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -54,10 +54,10 @@
 
 ## 💼 Projects
 
-- 🔗 **[StayMore Website](https://github.com/waseem-baig/staymore-client)** – Multi-page frontend built with Next.js and Tailwind CSS. Designed and integrated a mission-based layout system using reusable components.
-- 🧾 **[Vyuha Admin Panel](https://github.com/waseem-baig/vyuha-admin-panel)** – Admin panel for food delivery using React, Tailwind, and backend API integration.
 - 🎨 **[Portfolio Website](https://github.com/waseem-baig/my_portfolio)** – A responsive developer portfolio built with React.js and deployed on Vercel.
 - 🔍 **[QR Code Generator](https://github.com/waseem-baig/QR_Code_Generator)** – Node.js + Express.js based tool for generating QR codes from URLs.
+- 📷 **[Face Detection Attendance System](https://github.com/waseem-baig/face-detection-attendance)** – Built using Python, OpenCV, and Firebase for real-time face recognition and logging.
+- 📦 **[To-Do Task App](https://github.com/waseem-baig/ToDo-ReactApp)** – A simple React-based task tracker with CRUD features and responsive layout.
 
 ---
 
