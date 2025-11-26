@@ -19,66 +19,106 @@
 
 </div>
 
-<br/>
+---
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+## 🚀 About Me
 
-### 👨‍💻 About Me
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-<table>
-<tr><td>📍 <b>Location</b></td><td>India 🇮🇳</td></tr>
-<tr><td>🎓 <b>Education</b></td><td>VIT-AP University | Computer Science & Engineering</td></tr>
-<tr><td>💼 <b>Current Role</b></td><td>Full-Stack Developer</td></tr>
-<tr><td>🚀 <b>Working On</b></td><td>Building scalable web applications</td></tr>
-<tr><td>📚 <b>Learning</b></td><td>AI/ML • Web3 • Cloud Architecture</td></tr>
-<tr><td>💬 <b>Ask Me About</b></td><td>MERN Stack • Next.js • System Design • DevOps</td></tr>
-<tr><td>⚡ <b>Fun Fact</b></td><td>I debug code in my dreams! 😴💭</td></tr>
-</table>
+```typescript
+const waseem = {
+  location: "India 🇮🇳",
+  education: "VIT-AP University",
+  major: "Computer Science & Engineering",
+  role: "Full-Stack Developer",
 
-<br/>
+  stats: {
+    projectsCompleted: "40+",
+    yearsOfExperience: "3+",
+    technologiesMastered: "25+",
+    happyClients: "30+",
+    coffeeConsumed: "∞",
+  },
 
-<div align="center">
+  currentFocus: [
+    "Building scalable web applications",
+    "Exploring AI/ML integration",
+    "Optimizing system performance",
+    "Contributing to open source",
+  ],
 
-### 📊 Quick Stats
+  askMeAbout: [
+    "MERN Stack",
+    "Next.js",
+    "System Design",
+    "API Architecture",
+    "DevOps",
+    "Database Optimization",
+  ],
 
-<img src="https://img.shields.io/badge/Projects_Delivered-40+-00D9FF?style=for-the-badge&logo=rocket&logoColor=white"/>
-<img src="https://img.shields.io/badge/Years_Experience-3+-00D9FF?style=for-the-badge&logo=calendar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Happy_Clients-30+-00D9FF?style=for-the-badge&logo=handshake&logoColor=white"/>
-<img src="https://img.shields.io/badge/Technologies-25+-00D9FF?style=for-the-badge&logo=code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Coffee_Consumed-∞-00D9FF?style=for-the-badge&logo=coffee&logoColor=white"/>
-
-</div>
-
-</div>
+  funFact: "I debug in my dreams! 😴💭",
+};
+```
 
 <br clear="right"/>
 
 ---
 
-<h2 align="center">🚀 Quick Highlights</h2>
+## 💼 What I Bring to the Table
 
 <div align="center">
 
-```diff
-@@ Core Strengths @@
-+ 💼 40+ Production-Ready Applications Delivered
-+ ⚡ 100% Project Success Rate | Zero Missed Deadlines
-+ 🎯 Expertise in MERN, MEAN Stack & Modern Frameworks
-+ 🌍 Applications Serving 10K+ Users Globally
-+ 🔐 Security-First Development | Zero Breaches
-+ 📈 Performance Optimization Expert (90+ PageSpeed)
-+ 🤝 Mentored 50+ Developers in Full-Stack Development
-```
+| 🎯 **Full-Stack Development** | 🏗️ **System Architecture** | 🎨 **UI/UX Excellence** |
+| :---------------------------: | :------------------------: | :---------------------: |
+|  End-to-end web applications  |  Scalable backend systems  |  Pixel-perfect designs  |
+|    RESTful & GraphQL APIs     | Microservices architecture |   Responsive layouts    |
+|      Real-time features       |   Database optimization    |   Component libraries   |
+|   Authentication & Security   |  Load balancing & caching  |   Cross-platform apps   |
 
 </div>
 
+### 🔥 Core Competencies
+
+```javascript
+const expertise = {
+  architecture: {
+    patterns: ["MVC", "MVVM", "Microservices", "Event-Driven"],
+    principles: ["SOLID", "DRY", "KISS", "Clean Code"],
+    scaling: ["Horizontal", "Vertical", "Load Balancing", "Caching"],
+  },
+
+  development: {
+    fullStack: ["MERN", "MEAN", "MEVN", "JAMstack"],
+    mobile: ["React Native", "PWA", "Hybrid Apps"],
+    apis: ["REST", "GraphQL", "WebSockets", "gRPC"],
+  },
+
+  devops: {
+    containerization: ["Docker", "Kubernetes"],
+    ci_cd: ["GitHub Actions", "Jenkins", "GitLab CI"],
+    monitoring: ["PM2", "New Relic", "Grafana"],
+    servers: ["Nginx", "Apache", "Load Balancers"],
+  },
+
+  specializations: [
+    "Multi-tenant SaaS applications",
+    "E-commerce platforms with payment integration",
+    "Real-time collaboration tools",
+    "API integrations (Shopify, Stripe, AWS, etc.)",
+    "Performance optimization & SEO",
+    "Database design & query optimization",
+    "Server deployment & automation",
+  ],
+};
+```
+
 ---
 
-<h2 align="center">🛠️ Technology Arsenal</h2>
+## 🛠️ Tech Stack & Tools
 
-<details open>
-<summary><b>💻 Languages</b></summary>
-<br/>
+<div align="center">
+
+### 💻 Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -86,11 +126,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>🎨 Frontend Development</b></summary>
-<br/>
+### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -100,14 +136,8 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>⚙️ Backend Development</b></summary>
-<br/>
+### ⚙️ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -116,13 +146,8 @@
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>🗄️ Databases & Caching</b></summary>
-<br/>
+### 🗄️ Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -131,11 +156,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br/>
+### ☁️ Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -143,54 +164,40 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>🧰 Tools & Platforms</b></summary>
-<br/>
+### 🧰 Tools
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>📊 AI/ML & Data Science</b></summary>
-<br/>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-
-</details>
+</div>
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Waseem-Baig&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Waseem-Baig&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waseem-Baig&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" alt="Top Languages"/>
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Waseem-Baig&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Waseem-Baig&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waseem-Baig&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Waseem-Baig&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</p>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Waseem-Baig&theme=tokyonight&hide_border=true" />
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Waseem-Baig&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Waseem-Baig&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
 
 ---
 
