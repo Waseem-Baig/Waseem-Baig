@@ -1,345 +1,458 @@
 <div align="center">
 
-# 👋 Hi there, I'm Waseem Baig!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Waseem%20Baig&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-### 🚀 Full-Stack Developer | System Architect | Tech Enthusiast
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+Stack+Architect+%F0%9F%92%BB;Building+Scalable+Solutions+%E2%9A%A1;40%2B+Projects+Delivered+%F0%9F%8E%AF;DevOps+%26+Cloud+Expert+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Waseem-Baig&style=for-the-badge&color=brightgreen)
-[![GitHub followers](https://img.shields.io/github/followers/Waseem-Baig?style=for-the-badge&color=blue&logo=github)](https://github.com/Waseem-Baig)
-[![GitHub stars](https://img.shields.io/github/stars/Waseem-Baig?style=for-the-badge&color=yellow&logo=github)](https://github.com/Waseem-Baig)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/waseem-baig-59a3b2283/)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Waseem-Baig&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Waseem-Baig?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Waseem-Baig?label=Stars&style=social" alt="stars" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Expert;40%2B+Projects+Delivered;Building+Scalable+Solutions;DevOps+%26+Cloud+Enthusiast" alt="Typing SVG" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/waseem-baig-59a3b2283/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:waseem20032005@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://waseembaig.me"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://twitter.com/waseem_baig"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+</p>
 
 </div>
 
----
+<br/>
 
-## 🚀 About Me
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+### 👨‍💻 About Me
 
-```typescript
-const waseem = {
-  location: "India 🇮🇳",
-  education: "VIT-AP University",
-  major: "Computer Science & Engineering",
-  role: "Full-Stack Developer",
+<table>
+<tr><td>📍 <b>Location</b></td><td>India 🇮🇳</td></tr>
+<tr><td>🎓 <b>Education</b></td><td>VIT-AP University | Computer Science & Engineering</td></tr>
+<tr><td>💼 <b>Current Role</b></td><td>Full-Stack Developer</td></tr>
+<tr><td>🚀 <b>Working On</b></td><td>Building scalable web applications</td></tr>
+<tr><td>📚 <b>Learning</b></td><td>AI/ML • Web3 • Cloud Architecture</td></tr>
+<tr><td>💬 <b>Ask Me About</b></td><td>MERN Stack • Next.js • System Design • DevOps</td></tr>
+<tr><td>⚡ <b>Fun Fact</b></td><td>I debug code in my dreams! 😴💭</td></tr>
+</table>
 
-  stats: {
-    projectsCompleted: "40+",
-    yearsOfExperience: "3+",
-    technologiesMastered: "25+",
-    happyClients: "30+",
-    coffeeConsumed: "∞",
-  },
-
-  currentFocus: [
-    "Building scalable web applications",
-    "Exploring AI/ML integration",
-    "Optimizing system performance",
-    "Contributing to open source",
-  ],
-
-  askMeAbout: [
-    "MERN Stack",
-    "Next.js",
-    "System Design",
-    "API Architecture",
-    "DevOps",
-    "Database Optimization",
-  ],
-
-  funFact: "I debug in my dreams! 😴💭",
-};
-```
-
-### 🎯 Quick Facts
-
-- 💼 Building **production-ready applications** with modern tech stacks
-- 🌟 **40+ projects** delivered with 100% success rate
-- 🚀 Expertise in **full-stack development**, **system architecture**, and **DevOps**
-- 🔥 Passionate about **clean code**, **scalability**, and **user experience**
-- 🌱 Currently diving deep into **AI/ML**, **Web3**, and **Cloud Architecture**
-- ⚡ Always excited to collaborate on innovative projects
-- 💬 Love discussing tech, sharing knowledge, and solving complex problems
-
----
-
-## 🛠️ Tech Stack & Tools
+<br/>
 
 <div align="center">
 
-### 💻 Languages
+### 📊 Quick Stats
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-
-### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### ☁️ Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### 🧰 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-### 📊 AI/ML & Data Science
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<img src="https://img.shields.io/badge/Projects_Delivered-40+-00D9FF?style=for-the-badge&logo=rocket&logoColor=white"/>
+<img src="https://img.shields.io/badge/Years_Experience-3+-00D9FF?style=for-the-badge&logo=calendar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Happy_Clients-30+-00D9FF?style=for-the-badge&logo=handshake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Technologies-25+-00D9FF?style=for-the-badge&logo=code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Coffee_Consumed-∞-00D9FF?style=for-the-badge&logo=coffee&logoColor=white"/>
 
 </div>
+
+</div>
+
+<br clear="right"/>
 
 ---
 
-## 💼 What I Bring to the Table
-
-<div align="center">
-
-| 🎯 **Full-Stack Development** | 🏗️ **System Architecture** | 🎨 **UI/UX Excellence** |
-| :---------------------------: | :------------------------: | :---------------------: |
-|  End-to-end web applications  |  Scalable backend systems  |  Pixel-perfect designs  |
-|    RESTful & GraphQL APIs     | Microservices architecture |   Responsive layouts    |
-|      Real-time features       |   Database optimization    |   Component libraries   |
-|   Authentication & Security   |  Load balancing & caching  |   Cross-platform apps   |
-
-</div>
-
-### 🔥 Core Competencies
-
-```javascript
-const expertise = {
-  architecture: {
-    patterns: ["MVC", "MVVM", "Microservices", "Event-Driven"],
-    principles: ["SOLID", "DRY", "KISS", "Clean Code"],
-    scaling: ["Horizontal", "Vertical", "Load Balancing", "Caching"],
-  },
-
-  development: {
-    fullStack: ["MERN", "MEAN", "MEVN", "JAMstack"],
-    mobile: ["React Native", "PWA", "Hybrid Apps"],
-    apis: ["REST", "GraphQL", "WebSockets", "gRPC"],
-  },
-
-  devops: {
-    containerization: ["Docker", "Kubernetes"],
-    ci_cd: ["GitHub Actions", "Jenkins", "GitLab CI"],
-    monitoring: ["PM2", "New Relic", "Grafana"],
-    servers: ["Nginx", "Apache", "Load Balancers"],
-  },
-
-  specializations: [
-    "Multi-tenant SaaS applications",
-    "E-commerce platforms with payment integration",
-    "Real-time collaboration tools",
-    "API integrations (Shopify, Stripe, AWS, etc.)",
-    "Performance optimization & SEO",
-    "Database design & query optimization",
-    "Server deployment & automation",
-  ],
-};
-```
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Waseem-Baig&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waseem-Baig&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Waseem-Baig&theme=tokyonight&hide_border=true" />
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Waseem-Baig&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Waseem-Baig&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
-## 🎯 Featured Projects & Achievements
-
-<div align="center">
-
-### 🌟 Portfolio Highlights
-
-|   🚀 Project Type    | 📊 Count |        💡 Key Technologies         |     ⭐ Impact     |
-| :------------------: | :------: | :--------------------------------: | :---------------: |
-| E-commerce Platforms |    8+    |     MERN, Stripe, Shopify API      |    10K+ users     |
-|  SaaS Applications   |    5+    | Next.js, PostgreSQL, Multi-tenancy |  500+ businesses  |
-|     Mobile Apps      |    6+    |       React Native, Firebase       |   5K+ downloads   |
-| Analytics Dashboards |    4+    |    React, D3.js, Real-time data    |  100+ companies   |
-|     AI/ML Tools      |    3+    |     Python, TensorFlow, OpenCV     | Automation boost  |
-| Enterprise Solutions |    5+    |     Microservices, Docker, K8s     | Corporate clients |
-
-</div>
-
-### 🏅 Key Achievements
+<h2 align="center">🚀 Quick Highlights</h2>
 
 <div align="center">
 
 ```diff
-+ ✅ 100% Project Success Rate - All 40+ projects delivered on time and within scope
-+ ⚡ Performance Expert - Consistently achieve 90+ PageSpeed scores
-+ 🔐 Security Champion - Zero security breaches across all deployed applications
-+ 🌍 Global Reach - Applications serving users in 15+ countries
-+ 📱 Cross-Platform Master - Web, Mobile, Desktop development expertise
-+ 🎓 Mentor - Helped 50+ developers learn full-stack development
-+ 🌟 Open Source - Contributing to community projects and libraries
+@@ Core Strengths @@
++ 💼 40+ Production-Ready Applications Delivered
++ ⚡ 100% Project Success Rate | Zero Missed Deadlines
++ 🎯 Expertise in MERN, MEAN Stack & Modern Frameworks
++ 🌍 Applications Serving 10K+ Users Globally
++ 🔐 Security-First Development | Zero Breaches
++ 📈 Performance Optimization Expert (90+ PageSpeed)
++ 🤝 Mentored 50+ Developers in Full-Stack Development
 ```
 
 </div>
 
-### 💼 Professional Highlights
+---
 
-- 🏆 **Successful Deployments**: 40+ production applications on AWS, Azure, Vercel, Railway
-- 💰 **Revenue Impact**: Built e-commerce platforms processing $500K+ in transactions
-- ⚡ **Performance Optimization**: Reduced load times by 70% across multiple applications
-- 🔄 **CI/CD Implementation**: Automated deployment pipelines saving 20+ hours/week
-- 📈 **Scalability**: Architected systems handling 10K+ concurrent users
-- 🛡️ **Security**: Implemented OAuth, JWT, encryption, and secure payment integrations
+<h2 align="center">🛠️ Technology Arsenal</h2>
+
+<details open>
+<summary><b>💻 Languages</b></summary>
+<br/>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Caching</b></summary>
+<br/>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br/>
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🧰 Tools & Platforms</b></summary>
+<br/>
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>📊 AI/ML & Data Science</b></summary>
+<br/>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+
+</details>
 
 ---
 
-## 🎓 Learning & Growth
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<div align="center">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Waseem-Baig&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Waseem-Baig&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+</p>
 
-| 🔥 Currently Exploring  |        🎯 2025 Goals         |         🌟 Mastering          |
-| :---------------------: | :--------------------------: | :---------------------------: |
-|    Web3 & Blockchain    |   AWS Solutions Architect    |    Advanced System Design     |
-| Serverless Architecture | Machine Learning Integration |    Performance Engineering    |
-|     Micro-frontends     |     Kubernetes & DevOps      | React Patterns & Optimization |
-|     Edge Computing      |      Cloud-Native Apps       |       Database Scaling        |
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waseem-Baig&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Waseem-Baig&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Waseem-Baig&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+</p>
 
 ---
 
-## 🤝 Let's Connect & Collaborate!
+<h2 align="center">💼 What I Bring to the Table</h2>
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/00D9FF/external-full-stack-no-code-flaticons-flat-flat-icons.png"/>
+<h3>Full-Stack Development</h3>
+<p>✨ End-to-end web applications<br/>
+🔌 RESTful & GraphQL APIs<br/>
+⚡ Real-time features<br/>
+🔐 Secure authentication</p>
+</td>
 
-### 📬 Reach Out
+<td align="center" width="33%">
+<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/00D9FF/external-architecture-interior-design-flaticons-flat-flat-icons.png"/>
+<h3>System Architecture</h3>
+<p>🏗️ Scalable backend systems<br/>
+📦 Microservices architecture<br/>
+💾 Database optimization<br/>
+⚖️ Load balancing & caching</p>
+</td>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waseem-baig-59a3b2283/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waseem20032005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Waseem-Baig)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://waseembaig.me)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/waseem_baig)
-
-### 💼 Open For
-
-<table>
-  <tr>
-    <td align="center">💻<br><b>Freelance Projects</b></td>
-    <td align="center">🚀<br><b>Full-time Roles</b></td>
-    <td align="center">🤝<br><b>Collaborations</b></td>
-    <td align="center">🎓<br><b>Mentorship</b></td>
-    <td align="center">💡<br><b>Tech Discussions</b></td>
-  </tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/00D9FF/external-devops-computer-programming-flaticons-flat-flat-icons.png"/>
+<h3>DevOps & Cloud</h3>
+<p>🐳 Docker & Kubernetes<br/>
+☁️ AWS, Azure, GCP<br/>
+🔄 CI/CD pipelines<br/>
+📊 Monitoring & optimization</p>
+</td>
+</tr>
 </table>
 
-### 📊 Profile Summary
+---
+
+<h2 align="center">🎯 Project Portfolio</h2>
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Waseem-Baig&theme=tokyonight)
+|        Project Type         | Count |      Technologies       |     Impact      |
+| :-------------------------: | :---: | :---------------------: | :-------------: |
+| 🛒 **E-commerce Platforms** |  8+   |  MERN, Stripe, Shopify  |   10K+ Users    |
+|  💼 **SaaS Applications**   |  5+   |   Next.js, PostgreSQL   | 500+ Businesses |
+| 📱 **Mobile Applications**  |  6+   | React Native, Firebase  |  5K+ Downloads  |
+| 📊 **Analytics Dashboards** |  4+   | React, D3.js, Real-time | 100+ Companies  |
+|     🤖 **AI/ML Tools**      |  3+   |   Python, TensorFlow    |   Automation    |
+| 🏢 **Enterprise Solutions** |  5+   |   Microservices, K8s    |    Corporate    |
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-### 💭 Developer Quote
+<h2 align="center">🏆 Achievements & Milestones</h2>
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+<table>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/rocket.png"/>
+<br/>
+<b>40+ Projects</b>
+<br/>
+<sub>Delivered Successfully</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/trophy.png"/>
+<br/>
+<b>100% Success</b>
+<br/>
+<sub>On-Time Delivery</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/speed.png"/>
+<br/>
+<b>90+ PageSpeed</b>
+<br/>
+<sub>Performance Expert</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/lock.png"/>
+<br/>
+<b>Zero Breaches</b>
+<br/>
+<sub>Security Champion</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/globe.png"/>
+<br/>
+<b>15+ Countries</b>
+<br/>
+<sub>Global Reach</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/student-male.png"/>
+<br/>
+<b>50+ Developers</b>
+<br/>
+<sub>Mentored</sub>
+</td>
+</tr>
+</table>
+
+### 💡 Core Expertise
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🏗️ Architecture Patterns**
+
+- MVC, MVVM, Microservices
+- Event-Driven Architecture
+- RESTful & GraphQL APIs
+- Serverless Architecture
+
+</td>
+<td width="33%" valign="top">
+
+**📐 Design Principles**
+
+- SOLID Principles
+- DRY, KISS, YAGNI
+- Clean Code & Refactoring
+- Test-Driven Development
+
+</td>
+<td width="33%" valign="top">
+
+**⚡ Specializations**
+
+- Multi-tenant SaaS platforms
+- E-commerce solutions
+- Real-time collaboration
+- Performance optimization
+- Payment integrations
+- Database optimization
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
+## 🤝 Let's Connect & Collaborate
+
 <div align="center">
 
-### ⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House
+### 📬 Reach Out to Me
 
-**Building innovative solutions, one commit at a time** 🚀
+<p>
+<a href="mailto:waseem20032005@gmail.com">
+<img src="https://img.shields.io/badge/Email-waseem20032005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/waseem-baig-59a3b2283/">
+<img src="https://img.shields.io/badge/LinkedIn-Waseem%20Baig-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/waseem_baig">
+<img src="https://img.shields.io/badge/Twitter-%40waseem__baig-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://waseembaig.me">
+<img src="https://img.shields.io/badge/Portfolio-waseembaig.me-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
+### 💼 Open for Opportunities
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/48/000000/handshake.png"/>
+<br/><b>Freelance</b>
+<br/><sub>Web & Mobile Apps</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/48/000000/briefcase.png"/>
+<br/><b>Full-Time</b>
+<br/><sub>Remote Preferred</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/48/000000/collaboration.png"/>
+<br/><b>Collaboration</b>
+<br/><sub>Open Source</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/48/000000/training.png"/>
+<br/><b>Mentorship</b>
+<br/><sub>Teaching & Guiding</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/48/000000/chat.png"/>
+<br/><b>Tech Talks</b>
+<br/><sub>Discussions</sub>
+</td>
+</tr>
+</table>
+
+### ⚡ Availability Status
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/48/000000/available-updates.png"/>
+<br/><b>🟢 Available for Work</b>
+<br/><sub>Ready for new projects</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/48/000000/clock.png"/>
+<br/><b>< 24 Hours</b>
+<br/><sub>Response Time</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/48/000000/world-map.png"/>
+<br/><b>UTC+5:30 (IST)</b>
+<br/><sub>Timezone</sub>
+</td>
+</tr>
+</table>
+
+<p align="center">
+<b>📧 Preferred Contact:</b> Email or LinkedIn<br/>
+<b>🗣️ Languages:</b> English • Hindi • Urdu • Telugu • Korean<br/>
+<b>💡 Interests:</b> Innovative Projects • Challenging Problems • Team Collaboration
+</p>
 
 ---
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<h3 align="center">📊 Detailed Profile Summary</h3>
 
-⭐️ From [Waseem-Baig](https://github.com/Waseem-Baig) | Last Updated: December 2025
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Waseem-Baig&theme=react" width="100%" alt="Profile Summary"/>
+
+---
+
+<h3 align="center">💭 Random Dev Quote</h3>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" width="100%" alt="Dev Quote"/>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Waseem-Baig&style=for-the-badge&color=00D9FF" alt="Profile Views"/>
+</p>
+
+<h2 align="center">
+⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House
+</h2>
+
+<h3 align="center">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+💙 Thanks for visiting! Let's build something amazing together! 💙
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+</h3>
+
+<p align="center">
+<sub>⭐️ From <a href="https://github.com/Waseem-Baig">Waseem-Baig</a> | Last Updated: December 2024</sub>
+</p>
 
 </div>
